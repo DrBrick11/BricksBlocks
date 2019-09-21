@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "668d660dd36c124efd8e3a7d80347331",
+    "revision": "2b8da3d9f0995077277c4ea489423054",
     "url": "/BricksBlocks/index.html"
   },
   {
-    "revision": "c46247b44f94cde753bd",
+    "revision": "6b7f7f8340afd5811eba",
     "url": "/BricksBlocks/static/css/main.e0126716.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/BricksBlocks/static/js/2.176a6389.chunk.js"
   },
   {
-    "revision": "c46247b44f94cde753bd",
-    "url": "/BricksBlocks/static/js/main.79138381.chunk.js"
+    "revision": "6b7f7f8340afd5811eba",
+    "url": "/BricksBlocks/static/js/main.571df0e7.chunk.js"
   },
   {
     "revision": "8f941f23d4e472792456",
