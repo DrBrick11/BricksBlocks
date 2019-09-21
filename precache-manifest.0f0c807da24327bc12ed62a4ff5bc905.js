@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2b8da3d9f0995077277c4ea489423054",
+    "revision": "600503d4505ed911b851b98ba545975a",
     "url": "/BricksBlocks/index.html"
   },
   {
